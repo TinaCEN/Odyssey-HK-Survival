@@ -1,0 +1,28 @@
+{
+  "animation_info": {
+    "generated_at": "2026-04-14 12:29:04",
+    "downloaded_files": [
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260414/fb863685-ed3f-4430-bc21-d8fa573afee4/2d8f76a8-0dfa-4ff9-b02c-6e507b713b91.png",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/male-humanities.png",
+        "filename": "male-humanities.png",
+        "file_type": "head"
+      },
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260414/fb863685-ed3f-4430-bc21-d8fa573afee4/38bc2d97-553b-4f0d-b4f7-1770bb038798.bin2",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/male-humanities_preview.bin2",
+        "filename": "male-humanities_preview.bin2",
+        "file_type": "preview"
+      }
+    ],
+    "output_directory": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine"
+  },
+  "prompt_info": {
+    "name": "时尚男大学生",
+    "description": "人文社科设计类-男性角色，时尚穿着，文艺风格"
+  },
+  "processing_info": {
+    "decryptor_available": true,
+    "total_files_processed": 6
+  }
+}

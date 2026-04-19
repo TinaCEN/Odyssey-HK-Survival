@@ -1,0 +1,28 @@
+{
+  "animation_info": {
+    "generated_at": "2026-04-14 12:29:05",
+    "downloaded_files": [
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260414/d678c2db-6206-42c5-8e71-d02e407ae53d/bd1e6f97-3326-470e-9724-5e59bb3d4039.png",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/female-humanities.png",
+        "filename": "female-humanities.png",
+        "file_type": "head"
+      },
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260414/d678c2db-6206-42c5-8e71-d02e407ae53d/593ed815-a2e2-4c0a-bf94-d4f8ab4fb3e0.bin2",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/female-humanities_preview.bin2",
+        "filename": "female-humanities_preview.bin2",
+        "file_type": "preview"
+      }
+    ],
+    "output_directory": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine"
+  },
+  "prompt_info": {
+    "name": "时尚女大学生",
+    "description": "人文社科设计类-女性角色，时尚穿着，潮流搭配"
+  },
+  "processing_info": {
+    "decryptor_available": true,
+    "total_files_processed": 6
+  }
+}

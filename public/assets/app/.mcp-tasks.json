@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "task_type": "game_app_icon",
+      "task_id": "69d9e2fa1e43c65c09ff2cd5",
+      "status": "SUCCESS",
+      "image_urls": [
+        "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/logo_v2_final/20260411/17a1759f-7e93-4b63-b3e6-b41540636453/74bc6f2f-3cb2-4f90-9bbe-11e7f973aa1f.png"
+      ],
+      "local_files": [
+        "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/app/icon.png"
+      ],
+      "created_at": "2026-04-11T05:59:00Z"
+    }
+  ]
+}

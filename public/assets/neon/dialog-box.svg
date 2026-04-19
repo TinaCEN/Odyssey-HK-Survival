@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" width="512" height="256">
+  <defs>
+    <linearGradient id="dlgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0c1e36" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#060e18" stop-opacity="0.94"/>
+    </linearGradient>
+    <linearGradient id="dlgTopLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#00e5ff" stop-opacity="0.9"/>
+      <stop offset="85%" stop-color="#00e5ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="dlgSep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff00dd" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#ff00dd" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#ff44ee" stop-opacity="0.7"/>
+      <stop offset="85%" stop-color="#ff00dd" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#ff00dd" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="496" height="240" rx="6" ry="6" fill="url(#dlgGrad)"/>
+  <line x1="8" y1="80" x2="504" y2="80" stroke="#00e5ff" stroke-width="0.3" opacity="0.03"/>
+  <line x1="8" y1="160" x2="504" y2="160" stroke="#00e5ff" stroke-width="0.3" opacity="0.03"/>
+  <rect x="8" y="8" width="496" height="240" rx="6" ry="6" fill="none" stroke="#00e5ff" stroke-width="5" opacity="0.08"/>
+  <rect x="8" y="8" width="496" height="240" rx="6" ry="6" fill="none" stroke="#00e5ff" stroke-width="3" opacity="0.20"/>
+  <rect x="8" y="8" width="496" height="240" rx="6" ry="6" fill="none" stroke="#33ffee" stroke-width="2" opacity="0.40"/>
+  <rect x="8" y="8" width="496" height="240" rx="6" ry="6" fill="none" stroke="#aaffff" stroke-width="0.75" opacity="0.80"/>
+  <line x1="14" y1="8" x2="498" y2="8" stroke="url(#dlgTopLine)" stroke-width="2"/>
+  <line x1="20" y1="36" x2="492" y2="36" stroke="url(#dlgSep)" stroke-width="1.5"/>
+  <path d="M14,24 L14,14 L24,14" fill="none" stroke="#00e5ff" stroke-width="2" opacity="0.55" stroke-linecap="round"/>
+  <path d="M488,14 L498,14 L498,24" fill="none" stroke="#00e5ff" stroke-width="2" opacity="0.55" stroke-linecap="round"/>
+  <path d="M14,234 L14,244 L24,244" fill="none" stroke="#ff00dd" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <path d="M488,244 L498,244 L498,234" fill="none" stroke="#ff00dd" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <circle cx="24" cy="14" r="1.5" fill="#00e5ff" opacity="0.3"/>
+  <circle cx="498" cy="14" r="1.5" fill="#00e5ff" opacity="0.3"/>
+</svg>

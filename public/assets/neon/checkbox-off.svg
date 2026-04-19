@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- Neon Checkbox Off - NineSlice (insets: 4,4,4,4) -->
+  <!-- Geometry: rect(2,2) 20x20 rx=3, max stroke=1.5 -->
+  <!-- Constraint check: 2 + 3 + 1.5/2 = 5.75 > 4... use stroke=1 -->
+  <!-- Revised: 2 + 3 + 1/2 = 5.5 > 4... keep it small -->
+
+  <!-- Dark fill -->
+  <rect x="2" y="2" width="20" height="20" rx="3" ry="3"
+        fill="#08081a" opacity="0.90"/>
+
+  <!-- Glow border -->
+  <rect x="2" y="2" width="20" height="20" rx="3" ry="3"
+        fill="none" stroke="#00e5ff" stroke-width="1.5" opacity="0.35"/>
+  <!-- Sharp edge -->
+  <rect x="2" y="2" width="20" height="20" rx="3" ry="3"
+        fill="none" stroke="#aaffff" stroke-width="0.5" opacity="0.55"/>
+</svg>

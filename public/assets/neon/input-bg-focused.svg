@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 32" width="192" height="32">
+  <!-- Neon Input Field Background (Focused) - NineSlice (insets: 12,6,12,6) -->
+  <!-- Geometry: rect(4,3) 184x26 rx=3, max stroke=3 — IDENTICAL to input-bg -->
+
+  <!-- Dark fill -->
+  <rect x="4" y="3" width="184" height="26" rx="3" ry="3"
+        fill="#08081a" opacity="0.90"/>
+
+  <!-- Glow layer 1: focus glow -->
+  <rect x="4" y="3" width="184" height="26" rx="3" ry="3"
+        fill="none" stroke="#00e5ff" stroke-width="3" opacity="0.18"/>
+  <!-- Glow layer 2 -->
+  <rect x="4" y="3" width="184" height="26" rx="3" ry="3"
+        fill="none" stroke="#00e5ff" stroke-width="1.5" opacity="0.50"/>
+  <!-- Sharp edge -->
+  <rect x="4" y="3" width="184" height="26" rx="3" ry="3"
+        fill="none" stroke="#aaffff" stroke-width="0.5" opacity="0.85"/>
+</svg>

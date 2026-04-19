@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 24" width="48" height="24">
+  <!-- Neon Toggle Off - NineSlice (insets: 12,4,12,4) -->
+  <!-- Geometry: rect(2,4) 44x16 rx=8, max stroke=2 -->
+  <!-- Constraint check: 2 + 8 + 2/2 = 11 <= 12 OK -->
+
+  <!-- Dark track -->
+  <rect x="2" y="4" width="44" height="16" rx="8" ry="8"
+        fill="#08081a" opacity="0.90"/>
+
+  <!-- Glow layer 1 -->
+  <rect x="2" y="4" width="44" height="16" rx="8" ry="8"
+        fill="none" stroke="#00e5ff" stroke-width="2" opacity="0.15"/>
+  <!-- Glow layer 2 -->
+  <rect x="2" y="4" width="44" height="16" rx="8" ry="8"
+        fill="none" stroke="#00e5ff" stroke-width="1" opacity="0.30"/>
+  <!-- Sharp edge -->
+  <rect x="2" y="4" width="44" height="16" rx="8" ry="8"
+        fill="none" stroke="#aaffff" stroke-width="0.5" opacity="0.50"/>
+
+  <!-- Knob (off position, left side) -->
+  <circle cx="14" cy="12" r="7" fill="#0a1020"/>
+  <circle cx="14" cy="12" r="7" fill="none"
+          stroke="#00e5ff" stroke-width="0.75" opacity="0.45"/>
+</svg>

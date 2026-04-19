@@ -1,0 +1,286 @@
+male-finance.png
+size: 2973,3127
+format: RGBA8888
+filter: Linear,Linear
+pma: false
+repeat: none
+head_03
+  bounds: 2616, 516, 244, 188
+  offsets: 0, 0, 244, 188
+  index: -1
+frame_011
+  bounds: 2082, 222, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+Weapon_Bowstring
+  bounds: 414, 1032, 3, 224
+  offsets: 0, 0, 3, 224
+  index: -1
+dgh5_010
+  bounds: 222, 2304, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+Weapon_Spear
+  bounds: 0, 1032, 410, 410
+  offsets: 0, 0, 410, 410
+  index: -1
+daoguang0108
+  bounds: 1728, 1758, 218, 238
+  offsets: 0, 0, 218, 238
+  index: -1
+dgh5_008
+  bounds: 2172, 516, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+head_04
+  bounds: 516, 2864, 244, 188
+  offsets: 0, 0, 244, 188
+  index: -1
+Weapon_DoubleEdged
+  bounds: 516, 516, 410, 410
+  offsets: 0, 0, 410, 410
+  index: -1
+Weapon_Sword
+  bounds: 0, 0, 512, 512
+  offsets: 0, 0, 512, 512
+  index: -1
+frame_013
+  bounds: 516, 2394, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+dgh5_004
+  bounds: 2216, 1900, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+yz
+  bounds: 73, 2768, 139, 72
+  offsets: 0, 0, 139, 72
+  index: -1
+dgxz
+  bounds: 0, 2977, 102, 102
+  offsets: 0, 0, 102, 102
+  index: -1
+frame_010
+  bounds: 1900, 2438, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+Weapon_Dagger
+  bounds: 516, 930, 410, 410
+  offsets: 0, 0, 410, 410
+  index: -1
+Weapon_Staff
+  bounds: 0, 516, 512, 512
+  offsets: 0, 0, 512, 512
+  index: -1
+dgh5_002
+  bounds: 2122, 2216, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+Weapon_Shield
+  bounds: 930, 516, 410, 410
+  offsets: 0, 0, 410, 410
+  index: -1
+head_08
+  bounds: 2660, 1900, 244, 188
+  offsets: 0, 0, 244, 188
+  index: -1
+head
+  bounds: 1140, 2272, 250, 193
+  offsets: 0, 0, 250, 193
+  index: -1
+frame_014
+  bounds: 2264, 1426, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+tail
+  bounds: 1758, 930, 288, 282
+  offsets: 0, 0, 288, 282
+  index: -1
+frame_015
+  bounds: 1426, 2486, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+dgh5_006
+  bounds: 2324, 0, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+footL1
+  bounds: 930, 2050, 206, 388
+  offsets: 0, 0, 206, 388
+  index: -1
+daoguang0112
+  bounds: 1860, 0, 218, 238
+  offsets: 0, 0, 218, 238
+  index: -1
+Weapon_Arrow
+  bounds: 516, 0, 512, 512
+  offsets: 0, 0, 512, 512
+  index: -1
+daoguang0114
+  bounds: 0, 2082, 218, 238
+  offsets: 0, 0, 218, 238
+  index: -1
+dgh5_014
+  bounds: 0, 2546, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+handL
+  bounds: 1426, 1994, 248, 266
+  offsets: 0, 0, 248, 266
+  index: -1
+frame_002
+  bounds: 2394, 738, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+qjps_005
+  bounds: 1032, 414, 205, 69
+  offsets: 0, 0, 205, 69
+  index: -1
+qjps_004
+  bounds: 1446, 414, 205, 69
+  offsets: 0, 0, 205, 69
+  index: -1
+frame_006
+  bounds: 738, 2616, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+head_07
+  bounds: 1900, 2908, 244, 188
+  offsets: 0, 0, 244, 188
+  index: -1
+Weapon_Machinegun
+  bounds: 516, 1344, 410, 410
+  offsets: 0, 0, 410, 410
+  index: -1
+frame_005
+  bounds: 2438, 2122, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+Weapon_Lasergun
+  bounds: 930, 930, 410, 410
+  offsets: 0, 0, 410, 410
+  index: -1
+frame_004
+  bounds: 2122, 2660, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+daoguang0110
+  bounds: 242, 1860, 218, 238
+  offsets: 0, 0, 218, 238
+  index: -1
+dgh5_012
+  bounds: 2344, 2438, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+frame_007
+  bounds: 2458, 1678, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+frame_012
+  bounds: 1678, 2680, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+head_06
+  bounds: 2660, 2344, 244, 188
+  offsets: 0, 0, 244, 188
+  index: -1
+qjps_002
+  bounds: 2616, 960, 205, 69
+  offsets: 0, 0, 205, 69
+  index: -1
+head_02
+  bounds: 2344, 2908, 244, 188
+  offsets: 0, 0, 244, 188
+  index: -1
+head_05
+  bounds: 2536, 2660, 244, 188
+  offsets: 0, 0, 244, 188
+  index: -1
+bodyS_L
+  bounds: 1344, 930, 222, 422
+  offsets: 0, 0, 222, 422
+  index: -1
+Weapon_Gatlinggun
+  bounds: 930, 1344, 410, 410
+  offsets: 0, 0, 410, 410
+  index: -1
+qjps_000
+  bounds: 1033, 2616, 205, 69
+  offsets: 0, 0, 205, 69
+  index: -1
+daoguang0116
+  bounds: 1994, 1678, 218, 238
+  offsets: 0, 0, 218, 238
+  index: -1
+daoguang0106
+  bounds: 1678, 2216, 218, 238
+  offsets: 0, 0, 218, 238
+  index: -1
+frame_001
+  bounds: 2469, 1140, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+head_09
+  bounds: 2691, 1362, 244, 188
+  offsets: 0, 0, 244, 188
+  index: -1
+body
+  bounds: 1446, 0, 278, 324
+  offsets: 0, 0, 278, 324
+  index: -1
+footL
+  bounds: 1216, 1758, 206, 388
+  offsets: 0, 0, 206, 388
+  index: -1
+Weapon_Bang
+  bounds: 1032, 0, 410, 410
+  offsets: 0, 0, 410, 410
+  index: -1
+qjps_003
+  bounds: 2689, 1033, 205, 69
+  offsets: 0, 0, 205, 69
+  index: -1
+footR
+  bounds: 1758, 516, 222, 388
+  offsets: 0, 0, 222, 388
+  index: -1
+qjps_001
+  bounds: 2768, 0, 205, 69
+  offsets: 0, 0, 205, 69
+  index: -1
+Weapon_HandGun
+  bounds: 0, 1446, 410, 410
+  offsets: 0, 0, 410, 410
+  index: -1
+handR
+  bounds: 1758, 1426, 232, 298
+  offsets: 0, 0, 232, 298
+  index: -1
+daoguang0104
+  bounds: 2050, 1140, 218, 238
+  offsets: 0, 0, 218, 238
+  index: -1
+frame_009
+  bounds: 1140, 2691, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+frame_008
+  bounds: 2526, 222, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+head_01
+  bounds: 1362, 2939, 244, 188
+  offsets: 0, 0, 244, 188
+  index: -1
+Weapon_BigAxe
+  bounds: 1344, 516, 410, 410
+  offsets: 0, 0, 410, 410
+  index: -1
+frame_003
+  bounds: 222, 2748, 218, 218
+  offsets: 0, 0, 218, 218
+  index: -1
+Weapon_Bomb
+  bounds: 516, 1758, 410, 410
+  offsets: 0, 0, 410, 410
+  index: -1

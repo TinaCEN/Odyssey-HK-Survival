@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 48" width="128" height="48">
+  <defs>
+    <linearGradient id="btnHGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0e2a40" stop-opacity="0.98"/>
+      <stop offset="100%" stop-color="#081820" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="btnHTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#00e5ff" stop-opacity="0.9"/>
+      <stop offset="80%" stop-color="#00e5ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="40" rx="5" ry="5" fill="url(#btnHGrad)"/>
+  <rect x="4" y="4" width="120" height="40" rx="5" ry="5" fill="#00e5ff" opacity="0.06"/>
+  <line x1="8" y1="4" x2="120" y2="4" stroke="url(#btnHTop)" stroke-width="2"/>
+  <line x1="20" y1="44" x2="108" y2="44" stroke="#ff00dd" stroke-width="0.8" opacity="0.25"/>
+  <rect x="4" y="4" width="120" height="40" rx="5" ry="5" fill="none" stroke="#00e5ff" stroke-width="4" opacity="0.18"/>
+  <rect x="4" y="4" width="120" height="40" rx="5" ry="5" fill="none" stroke="#00e5ff" stroke-width="2.5" opacity="0.35"/>
+  <rect x="4" y="4" width="120" height="40" rx="5" ry="5" fill="none" stroke="#33ffee" stroke-width="1.5" opacity="0.55"/>
+  <rect x="4" y="4" width="120" height="40" rx="5" ry="5" fill="none" stroke="#ffffff" stroke-width="0.75" opacity="0.85"/>
+  <path d="M8,16 L8,8 L16,8" fill="none" stroke="#00e5ff" stroke-width="2" opacity="0.6" stroke-linecap="round"/>
+  <path d="M112,40 L120,40 L120,32" fill="none" stroke="#00e5ff" stroke-width="2" opacity="0.6" stroke-linecap="round"/>
+</svg>

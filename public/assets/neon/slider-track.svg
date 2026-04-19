@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 16" width="128" height="16">
+  <!-- Neon Slider Track - NineSlice (insets: 12,4,12,4) -->
+  <!-- Geometry: rect(4,2) 120x12 rx=2, max stroke=1.5 -->
+  <!-- Constraint check: 4 + 2 + 1.5/2 = 6.75 <= 12 OK -->
+
+  <!-- Dark fill -->
+  <rect x="4" y="2" width="120" height="12" rx="2" ry="2"
+        fill="#08081a" opacity="0.90"/>
+
+  <!-- Glow layer 1 -->
+  <rect x="4" y="2" width="120" height="12" rx="2" ry="2"
+        fill="none" stroke="#00e5ff" stroke-width="1.5" opacity="0.14"/>
+  <!-- Glow layer 2 -->
+  <rect x="4" y="2" width="120" height="12" rx="2" ry="2"
+        fill="none" stroke="#00e5ff" stroke-width="0.8" opacity="0.35"/>
+  <!-- Sharp edge -->
+  <rect x="4" y="2" width="120" height="12" rx="2" ry="2"
+        fill="none" stroke="#aaffff" stroke-width="0.4" opacity="0.55"/>
+</svg>

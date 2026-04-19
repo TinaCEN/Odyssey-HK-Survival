@@ -1,0 +1,269 @@
+<svg width="480" height="320" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320">
+  <defs>
+    <filter id="glow7">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow7s">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Night sky -->
+  <rect width="480" height="320" fill="#08081a"/>
+  <!-- Stars -->
+  <rect x="20" y="8" width="2" height="2" fill="#fff" opacity="0.7"/>
+  <rect x="55" y="15" width="2" height="2" fill="#fff" opacity="0.5"/>
+  <rect x="90" y="5" width="2" height="2" fill="#fff" opacity="0.6"/>
+  <rect x="130" y="20" width="2" height="2" fill="#fff" opacity="0.4"/>
+  <rect x="170" y="10" width="2" height="2" fill="#fff" opacity="0.7"/>
+  <rect x="210" y="18" width="2" height="2" fill="#fff" opacity="0.5"/>
+  <rect x="250" y="6" width="3" height="3" fill="#fff" opacity="0.8" filter="url(#glow7s)"/>
+  <rect x="290" y="22" width="2" height="2" fill="#fff" opacity="0.4"/>
+  <rect x="330" y="12" width="2" height="2" fill="#fff" opacity="0.6"/>
+  <rect x="370" y="8" width="2" height="2" fill="#fff" opacity="0.5"/>
+  <rect x="410" y="16" width="2" height="2" fill="#fff" opacity="0.7"/>
+  <rect x="450" y="10" width="2" height="2" fill="#fff" opacity="0.4"/>
+  <rect x="45" y="30" width="2" height="2" fill="#fff" opacity="0.3"/>
+  <rect x="155" y="35" width="2" height="2" fill="#fff" opacity="0.5"/>
+  <rect x="345" y="28" width="2" height="2" fill="#fff" opacity="0.4"/>
+  <rect x="430" y="32" width="2" height="2" fill="#fff" opacity="0.6"/>
+  <rect x="110" y="42" width="2" height="2" fill="#fff" opacity="0.3"/>
+  <rect x="270" y="38" width="2" height="2" fill="#fff" opacity="0.5"/>
+  <!-- Bright star with glow -->
+  <rect x="80" y="25" width="4" height="4" fill="#00fff2" opacity="0.6" filter="url(#glow7)"/>
+  <rect x="380" y="20" width="4" height="4" fill="#8844aa" opacity="0.5" filter="url(#glow7)"/>
+  <!-- Victoria Harbour water -->
+  <rect x="0" y="200" width="480" height="60" fill="#060618"/>
+  <!-- Water surface shimmer -->
+  <rect x="20" y="205" width="16" height="2" fill="#00fff2" opacity="0.06"/>
+  <rect x="60" y="210" width="20" height="2" fill="#8844aa" opacity="0.05"/>
+  <rect x="110" y="204" width="12" height="2" fill="#00fff2" opacity="0.07"/>
+  <rect x="160" y="212" width="18" height="2" fill="#00fff2" opacity="0.06"/>
+  <rect x="210" y="206" width="14" height="2" fill="#8844aa" opacity="0.05"/>
+  <rect x="260" y="214" width="20" height="2" fill="#00fff2" opacity="0.08"/>
+  <rect x="310" y="208" width="16" height="2" fill="#00fff2" opacity="0.06"/>
+  <rect x="360" y="216" width="22" height="2" fill="#8844aa" opacity="0.05"/>
+  <rect x="400" y="204" width="14" height="2" fill="#00fff2" opacity="0.07"/>
+  <rect x="440" y="210" width="18" height="2" fill="#00fff2" opacity="0.06"/>
+  <!-- Neon reflections on water -->
+  <rect x="80" y="220" width="4" height="20" fill="#00fff2" opacity="0.04"/>
+  <rect x="140" y="218" width="4" height="24" fill="#8844aa" opacity="0.04"/>
+  <rect x="200" y="220" width="4" height="18" fill="#00fff2" opacity="0.05"/>
+  <rect x="260" y="216" width="4" height="26" fill="#00fff2" opacity="0.04"/>
+  <rect x="320" y="218" width="4" height="22" fill="#8844aa" opacity="0.04"/>
+  <rect x="380" y="220" width="4" height="20" fill="#00fff2" opacity="0.05"/>
+  <rect x="440" y="218" width="4" height="22" fill="#8844aa" opacity="0.03"/>
+  <!-- City skyline (Kowloon/HK Island across harbour) -->
+  <!-- Building cluster 1 (far left) -->
+  <rect x="10" y="150" width="14" height="50" fill="#111138"/>
+  <rect x="12" y="155" width="2" height="2" fill="#eebb66" opacity="0.5"/>
+  <rect x="16" y="160" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <rect x="12" y="168" width="2" height="2" fill="#eebb66" opacity="0.3"/>
+  <rect x="28" y="140" width="10" height="60" fill="#0d0d30"/>
+  <rect x="30" y="145" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <rect x="34" y="155" width="2" height="2" fill="#eebb66" opacity="0.5"/>
+  <rect x="30" y="165" width="2" height="2" fill="#8844aa" opacity="0.4"/>
+  <!-- Building cluster 2 -->
+  <rect x="48" y="130" width="16" height="70" fill="#111138"/>
+  <rect x="50" y="135" width="2" height="2" fill="#00fff2" opacity="0.5"/>
+  <rect x="56" y="140" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="50" y="150" width="2" height="2" fill="#eebb66" opacity="0.3"/>
+  <rect x="56" y="158" width="2" height="2" fill="#00fff2" opacity="0.5"/>
+  <rect x="50" y="170" width="2" height="2" fill="#8844aa" opacity="0.3"/>
+  <rect x="68" y="145" width="12" height="55" fill="#0d0d30"/>
+  <rect x="70" y="150" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="74" y="162" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <!-- IFC-like tall tower -->
+  <rect x="88" y="100" width="18" height="100" fill="#111140"/>
+  <rect x="94" y="96" width="6" height="8" fill="#111140"/>
+  <!-- Antenna -->
+  <rect x="96" y="88" width="2" height="10" fill="#2a6090"/>
+  <rect x="96" y="86" width="2" height="4" fill="#ff3333" opacity="0.6"/>
+  <!-- Tower windows -->
+  <rect x="90" y="108" width="2" height="2" fill="#00fff2" opacity="0.5"/>
+  <rect x="96" y="108" width="2" height="2" fill="#00fff2" opacity="0.5"/>
+  <rect x="102" y="108" width="2" height="2" fill="#00fff2" opacity="0.5"/>
+  <rect x="90" y="120" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="96" y="120" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="102" y="120" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="90" y="132" width="2" height="2" fill="#00fff2" opacity="0.3"/>
+  <rect x="96" y="132" width="2" height="2" fill="#00fff2" opacity="0.3"/>
+  <rect x="90" y="145" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="96" y="145" width="2" height="2" fill="#8844aa" opacity="0.4"/>
+  <rect x="102" y="145" width="2" height="2" fill="#eebb66" opacity="0.3"/>
+  <rect x="90" y="160" width="2" height="2" fill="#00fff2" opacity="0.3"/>
+  <rect x="96" y="160" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <rect x="102" y="160" width="2" height="2" fill="#eebb66" opacity="0.3"/>
+  <!-- Neon sign on tower -->
+  <rect x="90" y="175" width="14" height="6" fill="#8844aa" opacity="0.3" filter="url(#glow7)"/>
+  <!-- Building cluster 3 -->
+  <rect x="112" y="135" width="14" height="65" fill="#0d0d30"/>
+  <rect x="114" y="140" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="120" y="155" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <rect x="130" y="125" width="18" height="75" fill="#111138"/>
+  <rect x="132" y="130" width="2" height="2" fill="#00fff2" opacity="0.5"/>
+  <rect x="140" y="140" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="132" y="155" width="2" height="2" fill="#8844aa" opacity="0.3"/>
+  <rect x="140" y="165" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <!-- Building cluster 4 (center) -->
+  <rect x="155" y="140" width="12" height="60" fill="#0d0d30"/>
+  <rect x="157" y="148" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="172" y="120" width="20" height="80" fill="#111138"/>
+  <rect x="174" y="126" width="2" height="2" fill="#00fff2" opacity="0.5"/>
+  <rect x="182" y="135" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="174" y="150" width="2" height="2" fill="#00fff2" opacity="0.3"/>
+  <rect x="182" y="162" width="2" height="2" fill="#8844aa" opacity="0.4"/>
+  <!-- ICC-like tower -->
+  <rect x="198" y="105" width="16" height="95" fill="#111140"/>
+  <rect x="204" y="100" width="4" height="8" fill="#111140"/>
+  <rect x="205" y="94" width="2" height="8" fill="#2a6090"/>
+  <rect x="200" y="112" width="2" height="2" fill="#00fff2" opacity="0.5"/>
+  <rect x="208" y="112" width="2" height="2" fill="#00fff2" opacity="0.5"/>
+  <rect x="200" y="125" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="208" y="130" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="200" y="145" width="2" height="2" fill="#00fff2" opacity="0.3"/>
+  <rect x="208" y="150" width="2" height="2" fill="#8844aa" opacity="0.4"/>
+  <rect x="200" y="165" width="2" height="2" fill="#eebb66" opacity="0.3"/>
+  <rect x="208" y="170" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <!-- Neon billboard on ICC -->
+  <rect x="199" y="180" width="14" height="8" fill="#00fff2" opacity="0.2" filter="url(#glow7)"/>
+  <!-- Building cluster 5 -->
+  <rect x="220" y="138" width="14" height="62" fill="#0d0d30"/>
+  <rect x="222" y="145" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="240" y="130" width="16" height="70" fill="#111138"/>
+  <rect x="242" y="138" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <rect x="250" y="150" width="2" height="2" fill="#eebb66" opacity="0.3"/>
+  <rect x="242" y="165" width="2" height="2" fill="#8844aa" opacity="0.4"/>
+  <!-- Building cluster 6 -->
+  <rect x="262" y="142" width="12" height="58" fill="#0d0d30"/>
+  <rect x="264" y="150" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <rect x="280" y="135" width="14" height="65" fill="#111138"/>
+  <rect x="282" y="140" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="290" y="155" width="2" height="2" fill="#00fff2" opacity="0.3"/>
+  <!-- Building cluster 7 -->
+  <rect x="300" y="145" width="16" height="55" fill="#0d0d30"/>
+  <rect x="302" y="152" width="2" height="2" fill="#eebb66" opacity="0.3"/>
+  <rect x="310" y="162" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <rect x="322" y="138" width="18" height="62" fill="#111138"/>
+  <rect x="324" y="144" width="2" height="2" fill="#00fff2" opacity="0.5"/>
+  <rect x="332" y="155" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="324" y="170" width="2" height="2" fill="#8844aa" opacity="0.3"/>
+  <!-- Building cluster 8 (right) -->
+  <rect x="346" y="148" width="14" height="52" fill="#0d0d30"/>
+  <rect x="348" y="155" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="366" y="140" width="16" height="60" fill="#111138"/>
+  <rect x="368" y="148" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <rect x="376" y="160" width="2" height="2" fill="#eebb66" opacity="0.3"/>
+  <rect x="388" y="150" width="12" height="50" fill="#0d0d30"/>
+  <rect x="390" y="158" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <!-- Far right buildings -->
+  <rect x="406" y="155" width="16" height="45" fill="#111138"/>
+  <rect x="408" y="162" width="2" height="2" fill="#eebb66" opacity="0.3"/>
+  <rect x="416" y="170" width="2" height="2" fill="#00fff2" opacity="0.4"/>
+  <rect x="428" y="148" width="14" height="52" fill="#0d0d30"/>
+  <rect x="430" y="156" width="2" height="2" fill="#eebb66" opacity="0.4"/>
+  <rect x="448" y="158" width="12" height="42" fill="#111138"/>
+  <rect x="450" y="166" width="2" height="2" fill="#00fff2" opacity="0.3"/>
+  <rect x="464" y="160" width="16" height="40" fill="#0d0d30"/>
+  <!-- Observation deck / railing -->
+  <rect x="0" y="260" width="480" height="4" fill="#1a1a50"/>
+  <rect x="0" y="258" width="480" height="2" fill="#2a6090" opacity="0.5"/>
+  <!-- Railing posts -->
+  <rect x="20" y="248" width="4" height="16" fill="#1a1a50"/>
+  <rect x="60" y="248" width="4" height="16" fill="#1a1a50"/>
+  <rect x="100" y="248" width="4" height="16" fill="#1a1a50"/>
+  <rect x="140" y="248" width="4" height="16" fill="#1a1a50"/>
+  <rect x="180" y="248" width="4" height="16" fill="#1a1a50"/>
+  <rect x="300" y="248" width="4" height="16" fill="#1a1a50"/>
+  <rect x="340" y="248" width="4" height="16" fill="#1a1a50"/>
+  <rect x="380" y="248" width="4" height="16" fill="#1a1a50"/>
+  <rect x="420" y="248" width="4" height="16" fill="#1a1a50"/>
+  <rect x="460" y="248" width="4" height="16" fill="#1a1a50"/>
+  <!-- Railing bar -->
+  <rect x="0" y="252" width="480" height="2" fill="#222266"/>
+  <!-- Observation deck floor -->
+  <rect x="0" y="264" width="480" height="56" fill="#0c0c28"/>
+  <!-- Floor tile lines -->
+  <rect x="0" y="285" width="480" height="1" fill="#1a1a44" opacity="0.3"/>
+  <rect x="0" y="305" width="480" height="1" fill="#1a1a44" opacity="0.2"/>
+  <!-- GRADUATION FIGURE (center) -->
+  <!-- Graduation cap (mortarboard) -->
+  <rect x="218" y="218" width="24" height="4" fill="#111133"/>
+  <rect x="222" y="214" width="16" height="6" fill="#111133"/>
+  <!-- Tassel -->
+  <rect x="240" y="216" width="2" height="8" fill="#ccaa44"/>
+  <rect x="240" y="224" width="4" height="4" fill="#ccaa44"/>
+  <!-- Head -->
+  <rect x="224" y="224" width="12" height="12" fill="#e8c8a0"/>
+  <!-- Eyes -->
+  <rect x="227" y="230" width="2" height="2" fill="#08081a"/>
+  <rect x="232" y="230" width="2" height="2" fill="#08081a"/>
+  <!-- Graduation gown body -->
+  <rect x="218" y="236" width="24" height="24" fill="#111133"/>
+  <!-- Gown collar -->
+  <rect x="222" y="236" width="16" height="4" fill="#1a1a50"/>
+  <!-- Gown stripe/sash -->
+  <rect x="228" y="240" width="4" height="20" fill="#8844aa" opacity="0.5"/>
+  <!-- Arms in gown (spread slightly for ceremonial feel) -->
+  <rect x="210" y="238" width="8" height="18" fill="#111133"/>
+  <rect x="242" y="238" width="8" height="18" fill="#111133"/>
+  <!-- Hands -->
+  <rect x="210" y="256" width="6" height="4" fill="#e8c8a0"/>
+  <rect x="244" y="256" width="6" height="4" fill="#e8c8a0"/>
+  <!-- Diploma in hand -->
+  <rect x="244" y="250" width="14" height="10" fill="#e8e0cc" opacity="0.8"/>
+  <rect x="246" y="252" width="10" height="2" fill="#ccaa44" opacity="0.6"/>
+  <rect x="256" y="250" width="2" height="10" fill="#cc3333" opacity="0.4"/>
+  <!-- Gown bottom -->
+  <rect x="218" y="260" width="10" height="12" fill="#111133"/>
+  <rect x="232" y="260" width="10" height="12" fill="#111133"/>
+  <!-- Shoes -->
+  <rect x="218" y="272" width="10" height="4" fill="#0a0a20"/>
+  <rect x="232" y="272" width="10" height="4" fill="#0a0a20"/>
+  <!-- Neon accent glow at base of railing -->
+  <rect x="0" y="262" width="480" height="2" fill="#00fff2" opacity="0.08" filter="url(#glow7)"/>
+  <!-- Ambient neon reflections on deck -->
+  <rect x="220" y="276" width="20" height="6" fill="#8844aa" opacity="0.04"/>
+  <!-- Scanlines -->
+  <rect x="0" y="0" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="8" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="16" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="24" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="32" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="40" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="48" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="56" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="64" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="72" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="80" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="88" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="96" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="104" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="112" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="120" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="128" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="136" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="144" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="152" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="160" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="168" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="176" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="184" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="192" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="200" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="208" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="216" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="224" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="232" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="240" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="248" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="256" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="264" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="272" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="280" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="288" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="296" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="304" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="312" width="480" height="1" fill="#fff" opacity="0.02"/>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <!-- Repeatable dark cyberpunk circuit grid pattern -->
+  <rect width="240" height="240" fill="#04060e"/>
+  <!-- Primary grid (subtle) -->
+  <line x1="0" y1="60" x2="240" y2="60" stroke="#0a1525" stroke-width="1"/>
+  <line x1="0" y1="120" x2="240" y2="120" stroke="#0a1525" stroke-width="1"/>
+  <line x1="0" y1="180" x2="240" y2="180" stroke="#0a1525" stroke-width="1"/>
+  <line x1="60" y1="0" x2="60" y2="240" stroke="#0a1525" stroke-width="1"/>
+  <line x1="120" y1="0" x2="120" y2="240" stroke="#0a1525" stroke-width="1"/>
+  <line x1="180" y1="0" x2="180" y2="240" stroke="#0a1525" stroke-width="1"/>
+  <!-- Secondary fine grid -->
+  <line x1="0" y1="30" x2="240" y2="30" stroke="#06101a" stroke-width="0.5"/>
+  <line x1="0" y1="90" x2="240" y2="90" stroke="#06101a" stroke-width="0.5"/>
+  <line x1="0" y1="150" x2="240" y2="150" stroke="#06101a" stroke-width="0.5"/>
+  <line x1="0" y1="210" x2="240" y2="210" stroke="#06101a" stroke-width="0.5"/>
+  <line x1="30" y1="0" x2="30" y2="240" stroke="#06101a" stroke-width="0.5"/>
+  <line x1="90" y1="0" x2="90" y2="240" stroke="#06101a" stroke-width="0.5"/>
+  <line x1="150" y1="0" x2="150" y2="240" stroke="#06101a" stroke-width="0.5"/>
+  <line x1="210" y1="0" x2="210" y2="240" stroke="#06101a" stroke-width="0.5"/>
+  <!-- Circuit traces — horizontal -->
+  <line x1="0" y1="60" x2="40" y2="60" stroke="#003344" stroke-width="1.5" opacity="0.5"/>
+  <line x1="40" y1="60" x2="40" y2="90" stroke="#003344" stroke-width="1.5" opacity="0.4"/>
+  <line x1="40" y1="90" x2="80" y2="90" stroke="#003344" stroke-width="1.5" opacity="0.3"/>
+  <line x1="160" y1="120" x2="200" y2="120" stroke="#003344" stroke-width="1.5" opacity="0.5"/>
+  <line x1="200" y1="120" x2="200" y2="150" stroke="#003344" stroke-width="1.5" opacity="0.4"/>
+  <line x1="200" y1="150" x2="240" y2="150" stroke="#003344" stroke-width="1.5" opacity="0.3"/>
+  <!-- Circuit traces — vertical -->
+  <line x1="120" y1="0" x2="120" y2="30" stroke="#003344" stroke-width="1.5" opacity="0.4"/>
+  <line x1="120" y1="30" x2="150" y2="30" stroke="#003344" stroke-width="1.5" opacity="0.3"/>
+  <line x1="150" y1="30" x2="150" y2="60" stroke="#003344" stroke-width="1.5" opacity="0.4"/>
+  <line x1="60" y1="180" x2="60" y2="210" stroke="#003344" stroke-width="1.5" opacity="0.4"/>
+  <line x1="60" y1="210" x2="90" y2="210" stroke="#003344" stroke-width="1.5" opacity="0.3"/>
+  <line x1="90" y1="210" x2="90" y2="240" stroke="#003344" stroke-width="1.5" opacity="0.4"/>
+  <!-- Circuit nodes (intersection dots) -->
+  <circle cx="60" cy="60" r="2" fill="#00556a" opacity="0.6"/>
+  <circle cx="120" cy="120" r="2" fill="#00556a" opacity="0.6"/>
+  <circle cx="180" cy="180" r="2" fill="#00556a" opacity="0.6"/>
+  <circle cx="120" cy="60" r="1.5" fill="#00445a" opacity="0.4"/>
+  <circle cx="60" cy="120" r="1.5" fill="#00445a" opacity="0.4"/>
+  <circle cx="180" cy="60" r="1.5" fill="#00445a" opacity="0.3"/>
+  <circle cx="60" cy="180" r="1.5" fill="#00445a" opacity="0.3"/>
+  <circle cx="180" cy="120" r="1.5" fill="#00445a" opacity="0.4"/>
+  <circle cx="120" cy="180" r="1.5" fill="#00445a" opacity="0.4"/>
+  <!-- Dim glow at key nodes -->
+  <circle cx="60" cy="60" r="6" fill="#003355" opacity="0.15"/>
+  <circle cx="180" cy="180" r="6" fill="#003355" opacity="0.15"/>
+  <circle cx="120" cy="120" r="8" fill="#002244" opacity="0.12"/>
+  <!-- Subtle diagonal data lines -->
+  <line x1="0" y1="0" x2="30" y2="30" stroke="#081a2a" stroke-width="0.5" opacity="0.5"/>
+  <line x1="210" y1="210" x2="240" y2="240" stroke="#081a2a" stroke-width="0.5" opacity="0.5"/>
+  <line x1="210" y1="0" x2="240" y2="30" stroke="#081a2a" stroke-width="0.5" opacity="0.3"/>
+  <line x1="0" y1="210" x2="30" y2="240" stroke="#081a2a" stroke-width="0.5" opacity="0.3"/>
+  <!-- Corner accent marks -->
+  <rect x="58" y="58" width="4" height="4" fill="none" stroke="#004466" stroke-width="0.5" opacity="0.5"/>
+  <rect x="178" y="178" width="4" height="4" fill="none" stroke="#004466" stroke-width="0.5" opacity="0.5"/>
+  <!-- Sparse pixel noise -->
+  <rect x="15" y="45" width="2" height="2" fill="#003344" opacity="0.3"/>
+  <rect x="95" y="15" width="2" height="2" fill="#003344" opacity="0.2"/>
+  <rect x="175" y="95" width="2" height="2" fill="#003344" opacity="0.3"/>
+  <rect x="45" y="175" width="2" height="2" fill="#003344" opacity="0.2"/>
+  <rect x="135" y="225" width="2" height="2" fill="#003344" opacity="0.3"/>
+  <rect x="225" y="45" width="2" height="2" fill="#003344" opacity="0.2"/>
+</svg>

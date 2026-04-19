@@ -1,0 +1,277 @@
+<svg width="480" height="320" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320">
+  <defs>
+    <filter id="glow5">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="480" height="320" fill="#08081a"/>
+  <!-- Stars -->
+  <rect x="30" y="12" width="2" height="2" fill="#fff" opacity="0.6"/>
+  <rect x="120" y="8" width="2" height="2" fill="#fff" opacity="0.4"/>
+  <rect x="250" y="15" width="2" height="2" fill="#fff" opacity="0.7"/>
+  <rect x="380" y="10" width="2" height="2" fill="#fff" opacity="0.5"/>
+  <rect x="440" y="18" width="2" height="2" fill="#fff" opacity="0.3"/>
+  <rect x="70" y="22" width="2" height="2" fill="#fff" opacity="0.5"/>
+  <rect x="310" y="6" width="2" height="2" fill="#fff" opacity="0.6"/>
+  <!-- Hall ceiling -->
+  <rect x="0" y="30" width="480" height="8" fill="#111133"/>
+  <rect x="0" y="38" width="480" height="4" fill="#1a1a40"/>
+  <!-- Ceiling lights (neon strips) -->
+  <rect x="40" y="32" width="60" height="4" fill="#00fff2" opacity="0.4" filter="url(#glow5)"/>
+  <rect x="140" y="32" width="60" height="4" fill="#00fff2" opacity="0.4" filter="url(#glow5)"/>
+  <rect x="240" y="32" width="60" height="4" fill="#00fff2" opacity="0.4" filter="url(#glow5)"/>
+  <rect x="340" y="32" width="60" height="4" fill="#00fff2" opacity="0.4" filter="url(#glow5)"/>
+  <!-- Hall back wall -->
+  <rect x="0" y="42" width="480" height="100" fill="#0d0d28"/>
+  <!-- "CAREER FAIR" neon text on back wall -->
+  <!-- C -->
+  <rect x="130" y="50" width="8" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="128" y="52" width="2" height="8" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="130" y="60" width="8" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <!-- A -->
+  <rect x="142" y="50" width="8" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="140" y="52" width="2" height="10" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="150" y="52" width="2" height="10" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="142" y="56" width="8" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <!-- R -->
+  <rect x="156" y="50" width="8" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="154" y="52" width="2" height="10" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="164" y="52" width="2" height="4" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="156" y="56" width="8" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="162" y="58" width="4" height="4" fill="#00fff2" filter="url(#glow5)"/>
+  <!-- E -->
+  <rect x="170" y="50" width="10" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="168" y="52" width="2" height="10" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="170" y="56" width="8" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="170" y="60" width="10" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <!-- E -->
+  <rect x="184" y="50" width="10" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="182" y="52" width="2" height="10" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="184" y="56" width="8" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="184" y="60" width="10" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <!-- R -->
+  <rect x="198" y="50" width="8" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="196" y="52" width="2" height="10" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="206" y="52" width="2" height="4" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="198" y="56" width="8" height="2" fill="#00fff2" filter="url(#glow5)"/>
+  <rect x="204" y="58" width="4" height="4" fill="#00fff2" filter="url(#glow5)"/>
+  <!-- space -->
+  <!-- F -->
+  <rect x="222" y="50" width="10" height="2" fill="#8844aa" filter="url(#glow5)"/>
+  <rect x="220" y="52" width="2" height="10" fill="#8844aa" filter="url(#glow5)"/>
+  <rect x="222" y="56" width="8" height="2" fill="#8844aa" filter="url(#glow5)"/>
+  <!-- A -->
+  <rect x="236" y="50" width="8" height="2" fill="#8844aa" filter="url(#glow5)"/>
+  <rect x="234" y="52" width="2" height="10" fill="#8844aa" filter="url(#glow5)"/>
+  <rect x="244" y="52" width="2" height="10" fill="#8844aa" filter="url(#glow5)"/>
+  <rect x="236" y="56" width="8" height="2" fill="#8844aa" filter="url(#glow5)"/>
+  <!-- I -->
+  <rect x="250" y="50" width="2" height="12" fill="#8844aa" filter="url(#glow5)"/>
+  <!-- R -->
+  <rect x="258" y="50" width="8" height="2" fill="#8844aa" filter="url(#glow5)"/>
+  <rect x="256" y="52" width="2" height="10" fill="#8844aa" filter="url(#glow5)"/>
+  <rect x="266" y="52" width="2" height="4" fill="#8844aa" filter="url(#glow5)"/>
+  <rect x="258" y="56" width="8" height="2" fill="#8844aa" filter="url(#glow5)"/>
+  <rect x="264" y="58" width="4" height="4" fill="#8844aa" filter="url(#glow5)"/>
+  <!-- Job board / LinkedIn display on right wall -->
+  <rect x="360" y="50" width="80" height="60" fill="#0a0a22" stroke="#2a6090" stroke-width="2"/>
+  <rect x="365" y="55" width="70" height="6" fill="#2a6090" opacity="0.8"/>
+  <rect x="365" y="64" width="50" height="3" fill="#00fff2" opacity="0.4"/>
+  <rect x="365" y="70" width="60" height="3" fill="#00fff2" opacity="0.3"/>
+  <rect x="365" y="76" width="45" height="3" fill="#00fff2" opacity="0.4"/>
+  <rect x="365" y="82" width="55" height="3" fill="#00fff2" opacity="0.3"/>
+  <rect x="365" y="88" width="40" height="3" fill="#00fff2" opacity="0.4"/>
+  <rect x="365" y="94" width="65" height="3" fill="#8844aa" opacity="0.3"/>
+  <rect x="365" y="100" width="50" height="3" fill="#00fff2" opacity="0.3"/>
+  <!-- Company booth 1 (left) -->
+  <rect x="20" y="70" width="70" height="72" fill="#111138"/>
+  <rect x="20" y="70" width="70" height="4" fill="#8844aa" opacity="0.7"/>
+  <!-- Booth 1 banner -->
+  <rect x="30" y="78" width="50" height="14" fill="#0a0a20" stroke="#8844aa" stroke-width="1"/>
+  <rect x="36" y="82" width="8" height="6" fill="#8844aa" opacity="0.6"/>
+  <rect x="48" y="82" width="20" height="2" fill="#00fff2" opacity="0.5"/>
+  <rect x="48" y="86" width="16" height="2" fill="#00fff2" opacity="0.3"/>
+  <!-- Booth 1 table -->
+  <rect x="24" y="110" width="62" height="6" fill="#1a1a50"/>
+  <rect x="24" y="116" width="4" height="26" fill="#1a1a50"/>
+  <rect x="82" y="116" width="4" height="26" fill="#1a1a50"/>
+  <!-- Papers on booth 1 table -->
+  <rect x="32" y="106" width="12" height="8" fill="#ddd" opacity="0.7"/>
+  <rect x="50" y="108" width="10" height="6" fill="#eee" opacity="0.6"/>
+  <!-- Company booth 2 (center-left) -->
+  <rect x="110" y="75" width="70" height="67" fill="#111138"/>
+  <rect x="110" y="75" width="70" height="4" fill="#00fff2" opacity="0.5"/>
+  <!-- Booth 2 banner -->
+  <rect x="120" y="83" width="50" height="14" fill="#0a0a20" stroke="#00fff2" stroke-width="1"/>
+  <rect x="126" y="87" width="6" height="6" fill="#00fff2" opacity="0.6"/>
+  <rect x="136" y="87" width="24" height="2" fill="#8844aa" opacity="0.5"/>
+  <rect x="136" y="91" width="18" height="2" fill="#8844aa" opacity="0.3"/>
+  <!-- Booth 2 table -->
+  <rect x="114" y="110" width="62" height="6" fill="#1a1a50"/>
+  <rect x="114" y="116" width="4" height="26" fill="#1a1a50"/>
+  <rect x="172" y="116" width="4" height="26" fill="#1a1a50"/>
+  <!-- Company booth 3 (center-right) -->
+  <rect x="280" y="75" width="70" height="67" fill="#111138"/>
+  <rect x="280" y="75" width="70" height="4" fill="#2a6090" opacity="0.7"/>
+  <rect x="290" y="83" width="50" height="14" fill="#0a0a20" stroke="#2a6090" stroke-width="1"/>
+  <rect x="296" y="87" width="8" height="6" fill="#2a6090" opacity="0.6"/>
+  <rect x="308" y="87" width="22" height="2" fill="#00fff2" opacity="0.4"/>
+  <rect x="308" y="91" width="16" height="2" fill="#00fff2" opacity="0.3"/>
+  <rect x="284" y="110" width="62" height="6" fill="#1a1a50"/>
+  <rect x="284" y="116" width="4" height="26" fill="#1a1a50"/>
+  <rect x="342" y="116" width="4" height="26" fill="#1a1a50"/>
+  <!-- Floor -->
+  <rect x="0" y="142" width="480" height="178" fill="#0a0a24"/>
+  <!-- Floor grid lines -->
+  <rect x="0" y="180" width="480" height="1" fill="#1a1a44" opacity="0.4"/>
+  <rect x="0" y="220" width="480" height="1" fill="#1a1a44" opacity="0.3"/>
+  <rect x="0" y="260" width="480" height="1" fill="#1a1a44" opacity="0.2"/>
+  <rect x="80" y="142" width="1" height="178" fill="#1a1a44" opacity="0.2"/>
+  <rect x="160" y="142" width="1" height="178" fill="#1a1a44" opacity="0.2"/>
+  <rect x="240" y="142" width="1" height="178" fill="#1a1a44" opacity="0.2"/>
+  <rect x="320" y="142" width="1" height="178" fill="#1a1a44" opacity="0.2"/>
+  <rect x="400" y="142" width="1" height="178" fill="#1a1a44" opacity="0.2"/>
+  <!-- Crowd figures (back row, smaller) -->
+  <!-- Person 1 back -->
+  <rect x="40" y="148" width="8" height="8" fill="#2a2a5a"/>
+  <rect x="42" y="156" width="4" height="10" fill="#333366"/>
+  <rect x="40" y="156" width="2" height="6" fill="#333366"/>
+  <rect x="48" y="156" width="2" height="6" fill="#333366"/>
+  <!-- Person 2 back -->
+  <rect x="60" y="146" width="8" height="8" fill="#2a2a5a"/>
+  <rect x="62" y="154" width="4" height="12" fill="#3a3a6a"/>
+  <!-- Person 3 back -->
+  <rect x="130" y="148" width="8" height="8" fill="#2a2a5a"/>
+  <rect x="132" y="156" width="4" height="10" fill="#333370"/>
+  <!-- Person 4 back -->
+  <rect x="155" y="146" width="8" height="8" fill="#2a2a5a"/>
+  <rect x="157" y="154" width="4" height="12" fill="#3a3a6a"/>
+  <!-- Person 5 back -->
+  <rect x="300" y="148" width="8" height="8" fill="#2a2a5a"/>
+  <rect x="302" y="156" width="4" height="10" fill="#333366"/>
+  <!-- Person 6 back -->
+  <rect x="320" y="146" width="8" height="8" fill="#2a2a5a"/>
+  <rect x="322" y="154" width="4" height="12" fill="#3a3a70"/>
+  <!-- Person 7 back -->
+  <rect x="370" y="148" width="8" height="8" fill="#2a2a5a"/>
+  <rect x="372" y="156" width="4" height="10" fill="#333366"/>
+  <!-- Crowd figures (front row, larger) -->
+  <!-- Person A -->
+  <rect x="30" y="190" width="12" height="12" fill="#3a3a6a"/>
+  <rect x="32" y="202" width="8" height="18" fill="#444480"/>
+  <rect x="28" y="204" width="4" height="10" fill="#444480"/>
+  <rect x="40" y="204" width="4" height="10" fill="#444480"/>
+  <rect x="32" y="220" width="4" height="12" fill="#333366"/>
+  <rect x="38" y="220" width="4" height="12" fill="#333366"/>
+  <!-- Person B -->
+  <rect x="70" y="188" width="12" height="12" fill="#3a3a6a"/>
+  <rect x="72" y="200" width="8" height="18" fill="#444488"/>
+  <rect x="72" y="218" width="4" height="12" fill="#333366"/>
+  <rect x="78" y="218" width="4" height="12" fill="#333366"/>
+  <!-- Person C -->
+  <rect x="330" y="190" width="12" height="12" fill="#3a3a6a"/>
+  <rect x="332" y="202" width="8" height="18" fill="#444480"/>
+  <rect x="332" y="220" width="4" height="12" fill="#333366"/>
+  <rect x="338" y="220" width="4" height="12" fill="#333366"/>
+  <!-- Person D -->
+  <rect x="400" y="186" width="12" height="12" fill="#3a3a6a"/>
+  <rect x="402" y="198" width="8" height="20" fill="#444488"/>
+  <rect x="402" y="218" width="4" height="14" fill="#333366"/>
+  <rect x="408" y="218" width="4" height="14" fill="#333366"/>
+  <!-- MAIN CHARACTER (center, formal wear, holding resume) -->
+  <!-- Head -->
+  <rect x="218" y="185" width="16" height="16" fill="#e8c8a0"/>
+  <!-- Hair -->
+  <rect x="218" y="183" width="16" height="4" fill="#222244"/>
+  <rect x="216" y="185" width="2" height="8" fill="#222244"/>
+  <!-- Eyes -->
+  <rect x="222" y="192" width="3" height="3" fill="#08081a"/>
+  <rect x="228" y="192" width="3" height="3" fill="#08081a"/>
+  <!-- Body (formal suit) -->
+  <rect x="216" y="201" width="20" height="28" fill="#1a1a44"/>
+  <!-- Suit lapels -->
+  <rect x="220" y="201" width="4" height="12" fill="#222266"/>
+  <rect x="228" y="201" width="4" height="12" fill="#222266"/>
+  <!-- Tie -->
+  <rect x="225" y="203" width="2" height="14" fill="#8844aa"/>
+  <!-- Arms -->
+  <rect x="210" y="203" width="6" height="20" fill="#1a1a44"/>
+  <rect x="236" y="203" width="6" height="20" fill="#1a1a44"/>
+  <!-- Hands -->
+  <rect x="210" y="223" width="6" height="4" fill="#e8c8a0"/>
+  <rect x="236" y="223" width="6" height="4" fill="#e8c8a0"/>
+  <!-- Resume papers in hand -->
+  <rect x="204" y="218" width="12" height="16" fill="#eee" opacity="0.9"/>
+  <rect x="206" y="220" width="8" height="1" fill="#666"/>
+  <rect x="206" y="223" width="8" height="1" fill="#666"/>
+  <rect x="206" y="226" width="6" height="1" fill="#666"/>
+  <rect x="206" y="229" width="7" height="1" fill="#666"/>
+  <!-- Second resume sheet -->
+  <rect x="238" y="220" width="10" height="14" fill="#ddd" opacity="0.8"/>
+  <rect x="240" y="222" width="6" height="1" fill="#666"/>
+  <rect x="240" y="225" width="6" height="1" fill="#666"/>
+  <!-- Legs -->
+  <rect x="218" y="229" width="8" height="20" fill="#111133"/>
+  <rect x="228" y="229" width="8" height="20" fill="#111133"/>
+  <!-- Shoes -->
+  <rect x="216" y="249" width="10" height="4" fill="#0a0a20"/>
+  <rect x="228" y="249" width="10" height="4" fill="#0a0a20"/>
+  <!-- Neon floor accent lines -->
+  <rect x="0" y="290" width="480" height="2" fill="#00fff2" opacity="0.15"/>
+  <rect x="0" y="300" width="480" height="1" fill="#8844aa" opacity="0.1"/>
+  <!-- Booth staff at booth 1 -->
+  <rect x="46" y="98" width="8" height="8" fill="#e8c8a0"/>
+  <rect x="48" y="106" width="4" height="6" fill="#2a6090"/>
+  <!-- Booth staff at booth 2 -->
+  <rect x="136" y="98" width="8" height="8" fill="#e8c8a0"/>
+  <rect x="138" y="106" width="4" height="6" fill="#8844aa"/>
+  <!-- Booth staff at booth 3 -->
+  <rect x="308" y="98" width="8" height="8" fill="#e8c8a0"/>
+  <rect x="310" y="106" width="4" height="6" fill="#2a6090"/>
+  <!-- Neon glow accents on floor -->
+  <rect x="100" y="270" width="40" height="2" fill="#00fff2" opacity="0.08"/>
+  <rect x="250" y="280" width="60" height="2" fill="#8844aa" opacity="0.08"/>
+  <!-- Scanlines -->
+  <rect x="0" y="0" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="8" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="16" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="24" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="32" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="40" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="48" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="56" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="64" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="72" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="80" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="88" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="96" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="104" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="112" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="120" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="128" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="136" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="144" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="152" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="160" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="168" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="176" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="184" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="192" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="200" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="208" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="216" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="224" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="232" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="240" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="248" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="256" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="264" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="272" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="280" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="288" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="296" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="304" width="480" height="1" fill="#fff" opacity="0.02"/>
+  <rect x="0" y="312" width="480" height="1" fill="#fff" opacity="0.02"/>
+</svg>

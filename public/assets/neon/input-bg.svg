@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 32" width="192" height="32">
+  <!-- Neon Input Field Background - NineSlice (insets: 12,6,12,6) -->
+  <!-- Geometry: rect(4,3) 184x26 rx=3, max stroke=3 -->
+  <!-- Constraint check: 4 + 3 + 3/2 = 8.5 <= 12 OK -->
+
+  <!-- Dark fill -->
+  <rect x="4" y="3" width="184" height="26" rx="3" ry="3"
+        fill="#08081a" opacity="0.90"/>
+
+  <!-- Subtle border -->
+  <rect x="4" y="3" width="184" height="26" rx="3" ry="3"
+        fill="none" stroke="#00e5ff" stroke-width="1.5" opacity="0.25"/>
+  <!-- Sharp edge -->
+  <rect x="4" y="3" width="184" height="26" rx="3" ry="3"
+        fill="none" stroke="#aaffff" stroke-width="0.4" opacity="0.40"/>
+</svg>

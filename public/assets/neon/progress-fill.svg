@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 24" width="128" height="24">
+  <defs>
+    <linearGradient id="pfGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#006688"/>
+      <stop offset="50%" stop-color="#00ccee"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+    <linearGradient id="pfShine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="3" width="120" height="18" rx="3" ry="3" fill="url(#pfGrad)"/>
+  <rect x="4" y="3" width="120" height="9" rx="3" ry="3" fill="url(#pfShine)"/>
+  <rect x="4" y="3" width="120" height="18" rx="3" ry="3" fill="none" stroke="#33ffee" stroke-width="0.8" opacity="0.5"/>
+  <rect x="4" y="3" width="120" height="18" rx="3" ry="3" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.55"/>
+</svg>

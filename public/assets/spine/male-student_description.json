@@ -1,0 +1,46 @@
+{
+  "animation_info": {
+    "generated_at": "2026-04-11 11:06:45",
+    "downloaded_files": [
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260411/14136157-c55a-4ad9-b935-6f12987a2d17/368ab7e4-835b-46bf-a683-df15ff053ea2.png",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/male-student.png",
+        "filename": "male-student.png",
+        "file_type": "head"
+      },
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260411/14136157-c55a-4ad9-b935-6f12987a2d17/2dc28469-f542-4efd-a152-c0c54975db98.png",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/male-student_preview.png",
+        "filename": "male-student_preview.png",
+        "file_type": "preview"
+      },
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260411/14136157-c55a-4ad9-b935-6f12987a2d17/ddd621ed-57a6-4a65-80ed-fb77a800cc00.bin2",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/male-student_spine.bin2",
+        "filename": "male-student_spine.bin2",
+        "file_type": "other"
+      },
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260411/14136157-c55a-4ad9-b935-6f12987a2d17/869a6cae-be26-4039-8e77-b736fd023163.dat",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/869a6cae-be26-4039-8e77-b736fd023163.dat",
+        "filename": "869a6cae-be26-4039-8e77-b736fd023163.dat",
+        "file_type": "other"
+      },
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260411/14136157-c55a-4ad9-b935-6f12987a2d17/ed3bf728-dfbd-4b53-8252-504caad0b657.dat",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/ed3bf728-dfbd-4b53-8252-504caad0b657.dat",
+        "filename": "ed3bf728-dfbd-4b53-8252-504caad0b657.dat",
+        "file_type": "other"
+      }
+    ],
+    "output_directory": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine"
+  },
+  "prompt_info": {
+    "name": "男大学生",
+    "description": "中国男大学生，穿着休闲卫衣和牛仔裤，背着双肩书包"
+  },
+  "processing_info": {
+    "decryptor_available": true,
+    "total_files_processed": 9
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "animation_info": {
+    "generated_at": "2026-04-14 12:29:05",
+    "downloaded_files": [
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260414/a89b5e5b-2342-4d49-a1ee-d2b593b2c35d/5738eb18-a85d-4887-b188-35a91afa2272.png",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/male-finance.png",
+        "filename": "male-finance.png",
+        "file_type": "head"
+      },
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260414/a89b5e5b-2342-4d49-a1ee-d2b593b2c35d/0a4f2c1d-3100-445e-a461-4e13f23cef76.bin2",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/male-finance_preview.bin2",
+        "filename": "male-finance_preview.bin2",
+        "file_type": "preview"
+      }
+    ],
+    "output_directory": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine"
+  },
+  "prompt_info": {
+    "name": "西装男大学生",
+    "description": "金融商科类-男性角色，正式西装，商务精英风格"
+  },
+  "processing_info": {
+    "decryptor_available": true,
+    "total_files_processed": 6
+  }
+}

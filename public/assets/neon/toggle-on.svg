@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 24" width="48" height="24">
+  <!-- Neon Toggle On - NineSlice (insets: 12,4,12,4) -->
+  <!-- Geometry: rect(2,4) 44x16 rx=8, max stroke=2 — IDENTICAL to toggle-off -->
+
+  <!-- Active track fill -->
+  <rect x="2" y="4" width="44" height="16" rx="8" ry="8"
+        fill="#008888"/>
+  <rect x="2" y="4" width="44" height="16" rx="8" ry="8"
+        fill="#00e5ff" opacity="0.45"/>
+
+  <!-- Glow layer 1 -->
+  <rect x="2" y="4" width="44" height="16" rx="8" ry="8"
+        fill="none" stroke="#00e5ff" stroke-width="2" opacity="0.25"/>
+  <!-- Sharp edge -->
+  <rect x="2" y="4" width="44" height="16" rx="8" ry="8"
+        fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.50"/>
+
+  <!-- Knob (on position, right side) -->
+  <circle cx="34" cy="12" r="7" fill="#00e5ff"/>
+  <circle cx="34" cy="12" r="7" fill="none"
+          stroke="#ffffff" stroke-width="0.75" opacity="0.65"/>
+</svg>

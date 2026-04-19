@@ -1,0 +1,28 @@
+{
+  "animation_info": {
+    "generated_at": "2026-04-14 12:29:06",
+    "downloaded_files": [
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260414/91dcc429-dafa-4b4e-8449-196c86b9c606/f5688af4-de6b-45ea-8513-4faf7b72f8da.png",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/female-finance.png",
+        "filename": "female-finance.png",
+        "file_type": "head"
+      },
+      {
+        "original_url": "https://soon-prod-bucket.tos-cn-shanghai.volces.com/69d915d90e5a9d4a2f49c7a6/animation_V5_final/20260414/91dcc429-dafa-4b4e-8449-196c86b9c606/ff42ff27-72ac-43ee-9432-772cfaa1ae1e.bin2",
+        "local_path": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine/female-finance_preview.bin2",
+        "filename": "female-finance_preview.bin2",
+        "file_type": "preview"
+      }
+    ],
+    "output_directory": "/workspaces/69d915d90e5a9d4a2f49c7a6/69d9e21d1e43c65c09ff2c8a/public/assets/spine"
+  },
+  "prompt_info": {
+    "name": "职业装女大学生",
+    "description": "金融商科类-女性角色，职业套装，商务精英风格"
+  },
+  "processing_info": {
+    "decryptor_available": true,
+    "total_files_processed": 6
+  }
+}
